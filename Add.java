@@ -4,6 +4,6 @@ class Add
 {
 	var a = 9 ;
 	var b = 10 ;
-	System.out.print("Sum = %d ",a,b);
+	System.out.printf("Sum = %d ",a+b);
 }
 }
